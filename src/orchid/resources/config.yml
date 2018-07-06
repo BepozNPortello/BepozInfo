@@ -10,7 +10,7 @@ theme:
     facebook: 'facebookUsername'
     twitter: 'twitterHandle'
     instagram: 'instagramHandle'
-    github: 'githubUsername'
+    github: 'BepozNPortello/BepozInfo'
     other:
       - label: 'linkedin'
         link: 'https://www.example.com'
